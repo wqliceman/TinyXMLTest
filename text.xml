@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="StandAlone" standalone="EnCoding" ?>
+<MyApp>
+    <Name>wqliceman</Name>
+    <!--this is a position node and his attribute-->
+    <Position x="200" y="400" Value="This" />
+</MyApp>
