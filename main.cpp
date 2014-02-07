@@ -68,5 +68,6 @@ int stdout_Attribute(TiXmlElement *pElement)
 		nCount++;
 		pAttr = pAttr->Next();
 	}
+	
 	return nCount;
 }
